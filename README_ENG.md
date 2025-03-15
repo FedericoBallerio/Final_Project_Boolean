@@ -16,8 +16,9 @@ Instructions for accessing the dataset, running the analysis, and exploring the 
 
 ## Project Structure
 - `/data`: Raw and processed datasets
-- `Final_Project.ipynb`: Jupyter notebooks with analysis code
-- `Final_Project.twbx`: Tableau workbooks and exported images
+- `Final_Project_script.py`: Python script with analysis code
+- `Final_Project_notebook.ipynb`: Jupyter notebooks with analysis code
+- `Final_Project_tableau.twbx`: Tableau workbooks and exported images
 
 ## Credits
 Original dataset available on Kaggle: https://www.kaggle.com/datasets/yesshivam007/superstore-dataset

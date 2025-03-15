@@ -16,8 +16,9 @@ Le istruzioni per accedere al dataset, eseguire l'analisi ed esplorare le dashbo
 
 ## Struttura del Progetto
 - `/data`: Dataset grezzi e elaborati
-- `Final_Project.ipynb`: Notebook Jupyter con il codice di analisi
-- `Final_Project.twbx`: Workbook Tableau e immagini esportate
+- `Final_Project_script.py`: Script Python con il codice di analisi
+- `Final_Project_notebook.ipynb`: Notebook Jupyter con il codice di analisi
+- `Final_Project_tableau.twbx`: Workbook Tableau e immagini esportate
 
 ## Crediti
 Dataset originale disponibile su Kaggle: https://www.kaggle.com/datasets/yesshivam007/superstore-dataset
